@@ -1,2 +1,2 @@
-# problem-solving-C-C-
+# problem-solving
 problem solving (codeforces)
